@@ -2,7 +2,7 @@
 
 A simple web app to calculate interest on a given amount.
 
-**Live demo:** [apna GitHub Pages link yahan daalo]
+**Live demo:** [https://vkyadav070.github.io/interest-calculator/]
 
 ## Features
 - Calculate Simple Interest
